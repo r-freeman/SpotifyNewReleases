@@ -12,6 +12,6 @@ Processing application which retrieves the last nine album releases from Spotify
 ### 2. Install
 
 * Follow the instructions in the [Spotify Web API tutorial](https://developer.spotify.com/web-api/tutorial/) to create an application, get a clientId, clientSecret and refresh token.
-* Add the clientId, clientSecret to the config.json file.
+* Add the clientId, clientSecret and refresh token to the config.json file.
 
 ### 3. Enjoy!
